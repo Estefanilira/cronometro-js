@@ -1,6 +1,7 @@
 # CRONÔMETRO-JAVASCRIPT
 
-![Cronometro-versao-desktop](https://github.com/Estefanilira/cronometro-js/assets/126111557/57627b16-d73e-465a-ae20-a95844d009af)
+![Cronometro-versao-desktop](https://github.com/Estefanilira/cronometro-js/assets/126111557/614fb6fe-e468-4174-9d96-ae4dc87a15ee)
+
 
 
 Foi recriado um cronômetro, comumente usado para medir com precisão intervalos de tempo. 
@@ -16,13 +17,14 @@ Os usuários devem ser capazes de:
 
 ### - Versão Desktop
   
-![cronometro-js](https://github.com/Estefanilira/cronometro-js/assets/126111557/417c7836-6cc5-41df-947e-3e8ce1505f63)
+
+![cronometro-js](https://github.com/Estefanilira/cronometro-js/assets/126111557/ab8821fb-7165-4139-9eba-c2fb4d6cce9a)
 
 
 ### - Versão Mobile
   
-  
-![cronometro-js-mobile](https://github.com/Estefanilira/cronometro-js/assets/126111557/834cf30e-921e-4879-a9e7-979083ea806f)
+
+![cronometro-js-mobile](https://github.com/Estefanilira/cronometro-js/assets/126111557/2c4623d5-653e-4cd1-92e4-f8643e799875)
 
 
 ## Tecnologias
