@@ -32,7 +32,7 @@ Aqui estão as tecnologias utilizadas neste projeto.
 
 ## Links
  Repositório:
- Deploy: 
+ Deploy: deploy
 
  ## Autora
 
