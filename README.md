@@ -34,8 +34,9 @@ Aqui estão as tecnologias utilizadas neste projeto.
 
 
 ## Links
- Repositório:
- Deploy: deploy
+
+ Repositório: https://github.com/Estefanilira/cronometro-js
+ Deploy: 
 
  ## Autora
 
